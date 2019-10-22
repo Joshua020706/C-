@@ -10,3 +10,19 @@ public class Program
 		Console.WriteLine(x);
 	}
 }
+
+A
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+	        int a = 4;
+		int b = 4;
+                Console.WriteLine(a);
+		Console.WriteLine(b);
+	}
+}
+
+Answer: 42
