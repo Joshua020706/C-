@@ -1,0 +1,4 @@
+Def: To take user input and store it in the temp variable, to store it in the system:
+
+string temp;
+temp = Console.ReadLine();
