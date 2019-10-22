@@ -1,0 +1,12 @@
+Example:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int x = 69;
+		Console.WriteLine(x);
+	}
+}
