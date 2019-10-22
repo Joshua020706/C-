@@ -1,4 +1,4 @@
-int - whole numbers, like: 1, -56, 948
+int - to store an integer value (a whole number) in a variable, whole numbers, like: 1, -56, 948
 double - decimal numbers, like: 239.43909, -660.01
 char - single characters, like: “a”, “&”, “£”
 string - string of characters, like: “dog”, “hello world”
@@ -9,13 +9,14 @@ bool - boolean values, like: true or false
 Examples:
 string name = "Shadow";
 string breed = "Golden Retriever";
-int age = 5;
+int myAge;
+myAge = 18;
 double weight = 65.22;
 bool spayed = true;
 
 Answer:
 Shadow
 Golden Retriever
-5
+18
 65.22
 True
