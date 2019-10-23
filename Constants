@@ -1,0 +1,7 @@
+Def: Constants store a value that cannot be changed from their initial assignment; it cannot be changed halfway
+
+Example: const double PI = 3.14;
+
+
+const double PI = 3.14;
+PI = 8; //error
