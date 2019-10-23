@@ -1,0 +1,8 @@
+Def: Converts a specified value to a double-precision floating-point number.
+
+Def Double: A rational number.
+
+Example:
+double n;
+string x = "77";
+n = Convert.ToDouble(x);
