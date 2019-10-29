@@ -1,0 +1,32 @@
+Examples of Variables:
+string()
+int()
+char
+decimal
+double
+float
+bool
+
+Example:
+using System;
+
+namespace Test2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string characterName = "Insert Name Here";
+            int characterAge; 
+            characterAge = 35;
+
+            Console.WriteLine("Hello " + characterName + "!");
+            Console.WriteLine("I know you are " + characterAge + " years old!");
+
+            Console.ReadLine();
+        }
+    }
+}
+
+//You must describe what int is first before inserting a number. int() does not need inverted commas.
+//char - must use '' not "". Only one letter only
