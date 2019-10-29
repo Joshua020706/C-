@@ -1,0 +1,77 @@
+\n is to separate a phrase into two lines.
+
+Example:
+using System;
+
+namespace Test2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+            Console.WriteLine("fal\nse");
+
+            Console.ReadLine();
+        }
+    }
+}
+
+phrase.ToUpper is to change all the alphabets to uppercase letters.
+
+Example:
+using System;
+
+namespace Test2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string phrase = "Joshua";
+
+            Console.WriteLine(phrase.ToUpper());
+
+            Console.ReadLine();
+        }
+    }
+}
+
+phrase.Contains - It is for the console to search for the word in the phrase.
+
+Example:
+using System;
+
+namespace Test2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string phrase = "Joshua";
+
+            Console.WriteLine(phrase.Contains("Joshua"));
+
+            Console.ReadLine();
+        }
+    }
+}
+phrase[0] - it takes the 1st alphabet and writes in the console.
+
+using System;
+
+namespace Test2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string phrase = "Joshua";
+
+            Console.WriteLine(phrase[2]);
+
+            Console.ReadLine();
+        }
+    }
+}
