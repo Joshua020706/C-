@@ -75,3 +75,5 @@ namespace Test2
         }
     }
 }
+
+phrase[0:8] - it takes the 1st alphabet to the 8th alphabet (C# does not take the end alphabet) and writes in the console.
